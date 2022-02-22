@@ -18,6 +18,7 @@ GANDOU Thomas.
 * KIM EunHwan, STENKULA Ninni, VIGNOLLES Amaury, TAHIRI Abdelilah, OJEDA Leonardo, PONCY Jonathan
 * AMARIR Azeddine, BOUHASSOUM Assya, DELGA Baptiste, LASGUIGNES Thibaud, LEMAÎTRE Aurélien, PARIS Christine
 * BELLET Valentine, PUECH Camille, MUREDDU Antoine, NUSSLI Gabriel, SADIK Anass
+* Essaid El Oubaidi, Lenny Laffargue, Carole Meyer, Duc Minh Muon, William Sablé, Paul Thebault
 
 The platform is (or was) developped and maintained by :
 
